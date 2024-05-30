@@ -1,0 +1,15 @@
+.img__reservation {
+  width: 100%;
+  max-width: 200px;
+}
+.rate__comment {
+  color: blue;
+  cursor: pointer;
+  &:hover{
+    text-decoration: underline;
+  }
+}
+.hr__reserve {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
